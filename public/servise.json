@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "heading": "Ambulance",
+        "img": "https://i.ibb.co/WtxcCMf/ambulance.png",
+        "imgUrl": "",
+        "description": "An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals.Typically, out-of-hospital medical care is provided to the patient."
+    },
+    {
+        "id": 2,
+        "heading": "Blood Test",
+        "img": "https://i.ibb.co/wcN2kKY/blood-test.png",
+        "imgUrl": "",
+        "description": "A blood test is a laboratory analysis performed on a blood sample that is usually extracted from a vein in the arm using a hypodermic needle, or via fingerprick. "
+    },
+    {
+        "id": 3,
+        "heading": "Psychological",
+        "img": "https://i.ibb.co/P46nkRL/brain.png",
+        "imgUrl": "",
+        "description": "We are giving best treatment Psychological patients. Many Psychological patients are become fit becauseOf we are tring too best care."
+    },
+    {
+        "id": 4,
+        "heading": "Best Doctor",
+        "img": "https://i.ibb.co/4tX0gcY/doctor.png",
+        "imgUrl": "",
+        "description": "There are 30 best doctors have in my Medical Health Care. This doctors one of the best doctors in the world. We provide best world class doctor for patient."
+    },
+    {
+        "id": 5,
+        "heading": "Heart Disease",
+        "img": "https://i.ibb.co/WDTfc3G/heart-disease.png",
+        "imgUrl": "",
+        "description": "Heart disease is the leading cause of death in the United States, causing about 1 in 4 deaths.1 The term “heart disease” refers to several types of heart conditions."
+    },
+    {
+        "id": 6,
+        "heading": "Phone Service",
+        "img": "https://i.ibb.co/GQSfLbZ/phone-cabin.png",
+        "imgUrl": "",
+        "description": "We prodide phone services when patients call our members. we try too best services in our telephone servises. many peoples who are situated in his home but give services in our Medical Care Diagnostic "
+    },
+    {
+        "id": 7,
+        "heading": "Best Surgery",
+        "img": "https://i.ibb.co/BBhWx2t/plastic-surgery.png",
+        "imgUrl": "",
+        "description": "Core Surgical Training (CST) is a two-year programme undertaken before entering the final stage of training (Specialty Training). "
+    },
+    {
+        "id": 8,
+        "heading": "Clean Cabin Room",
+        "img": "https://i.ibb.co/W3pmHv1/room.png",
+        "imgUrl": "",
+        "description": "Our cabin Rooms awlays clean and clear . Many Supervaigers have who are working too clean our cabin rooms. "
+    },
+    {
+        "id": 9,
+        "heading": "Dental Care",
+        "img": "https://i.ibb.co/FwhCNxm/tooth.png",
+        "imgUrl": "",
+        "description": "Tooth decay and gum disease are caused by plaque, a sticky combination of bacteria and food. Plaque begins to build up on teeth within a few minutes after eating. "
+    }
+]
